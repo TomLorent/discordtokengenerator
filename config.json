@@ -1,0 +1,22 @@
+{
+    "debug": true,
+    "timeout": 15000,
+    "sleepdelay": 0.3,
+    "nb_threads": 20,
+    "proxy_type": "https",
+    "proxy_file": "proxies.txt",
+    "usedproxies": "used_proxies.txt",
+    "mail_services": ["@gmail.com", "@yandex.com", "@hotmail.com", "@outlook.com", "@outlook.com.tr", "@yahoo.com" , "@arvenbab.com" , "@sinnerbab.com"],
+    "client_version": "1.0.9001",
+    "os_version": "10.0.19042",
+    "client_build_number": 82590,
+    "api_version": "8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) discord/1.0.9001 Chrome/83.0.4103.122 Electron/9.3.5 Safari/537.36",
+    "date_of_birth": "2000-05-05",
+    "images_dir": "images",
+    "invite": "XPQaUdUxvn",
+    "usernames": "nicknames.txt",
+    "password": "123456Sa.",
+    "captchakey": "3cc5a2a7178d8d2aa1d3a17e812271c",
+    "sitekey": "f5561ba9-8f1e-40ca-9b5b-a0b3f719ef34"
+}
